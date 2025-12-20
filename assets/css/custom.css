@@ -13,3 +13,14 @@
   font-style: italic;
   color: #555;
 }
+
+/* Remove sidebar spacing on pages that don't need it */
+.no-sidebar .page__inner-wrap {
+  display: block;
+}
+
+.no-sidebar .page__content {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
