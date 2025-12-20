@@ -4,10 +4,10 @@ minimal_mistakes_skin: "default"
 
 # Site Settings
 locale: "zh-CN" # [修改项] 改为中文
-title: "I Meixi's Blog"
-name: "I Meixi"
-description: "探索技术与生活的边界"
-url: "https://imeixi.github.io" # [修改项] 填入你的域名
+title: "ChessKitty's Blog"
+name: "ChessKitty"
+description: "Thinking slowly about fast AI."
+url: "https://blog.cheesekitty.top" # [修改项] 填入你的域名
 baseurl: ""
 repository: "imeixi/imeixi.github.io" # [修改项] 你的仓库名
 
@@ -21,8 +21,8 @@ search_provider: lunr
 
 # Site Author [修改项：侧边栏信息]
 author:
-  name: "I Meixi"
-  avatar: "/assets/images/avatar.png" # 请确保图片存在
+  name: "cheesekitty"
+  avatar: "/assets/images/avatar.jpg" # 请确保图片存在
   bio: "Developer & Creator"
   location: "China"
   links:
