@@ -4,8 +4,8 @@ minimal_mistakes_skin: "default"
 
 # Site Settings
 locale: "zh-CN" # [修改项] 改为中文
-title: "ChessKitty's Blog"
-name: "ChessKitty"
+title: "CheeseKitty's Blog"
+name: "CheeseKitty"
 description: "Thinking slowly about fast AI."
 url: "https://blog.cheesekitty.top" # [修改项] 填入你的域名
 baseurl: ""
