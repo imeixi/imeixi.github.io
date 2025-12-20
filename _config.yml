@@ -43,6 +43,9 @@ plugins:
 include:
   - _pages
 
+custom_css:
+  - assets/css/custom.css
+
 # Defaults (保持 Demo 设置)
 defaults:
   - scope:
