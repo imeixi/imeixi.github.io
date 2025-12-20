@@ -39,6 +39,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme # [必须手动添加这一行]
 
+# 添加此段以解决 404 问题
+include:
+  - _pages
+
 # Defaults (保持 Demo 设置)
 defaults:
   - scope:
