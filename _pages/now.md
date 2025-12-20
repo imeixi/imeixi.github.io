@@ -3,10 +3,8 @@ permalink: /now/
 title: "Now"
 excerpt: "What I’m focused on at the moment."
 layout: single
-classes: wide
+classes: wide no-sidebar
 toc: false
-sidebar:
-  nav: false
 ---
 
 {: .notice--primary}
