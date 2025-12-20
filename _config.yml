@@ -21,10 +21,10 @@ search_provider: lunr
 
 # Site Author [修改项：侧边栏信息]
 author:
-  name: "cheesekitty"
+  name: "CheeseKitty"
   avatar: "/assets/images/avatar.jpg" # 请确保图片存在
   bio: "Developer & Creator"
-  location: "China"
+  # location: "China"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
