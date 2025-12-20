@@ -70,3 +70,6 @@ this blog is for you.
 ---
 
 > *Thinking slowly about fast AI.*
+
+You can also see what I’m focused on right now → [/now](/now/)
+
