@@ -1,0 +1,15 @@
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.page__content h2 {
+  margin-top: 2.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #eee;
+}
+
+.page__content blockquote {
+  font-style: italic;
+  color: #555;
+}
