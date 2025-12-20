@@ -2,34 +2,71 @@
 permalink: /about/
 title: "About"
 excerpt: "Thinking slowly about fast AI."
-last_modified_at: 2025-12-20
+layout: single
+classes: wide
 toc: true
 ---
 
-## About cheesekitty
-
-Hi, I’m an **independent technologist** focused on AI systems.
-
-**cheesekitty** is a personal technical blog where I document how I explore, build, test, and reason about artificial intelligence — with an emphasis on clarity, evaluation, and long-term thinking rather than hype.
-
-My interests include:
-
-- Large Language Models (LLMs) and their real-world behavior  
-- AI system testing, evaluation, and reliability  
-- Tooling and engineering practices around AI workflows  
-- Careful, first-principles thinking in fast-moving technical fields  
-
-I prefer writing that is slow and deliberate.  
-Some posts are experiments, some are technical notes, and some are unfinished ideas — shared early and refined over time.
-
-The name *cheesekitty* comes from my cat, **Cheese**.  
-Watching a cat observe the world is a quiet reminder that good systems — technical or otherwise — are built with patience, simplicity, and respect for reality.
-
-As a **self-directed professional**, I work independently on AI-related projects, research, and technical consulting, focusing on work that compounds over time instead of chasing short-term trends.
-
-If you care about thoughtful engineering and practical AI,  
-you’re in the right place.
+{: .notice--primary}
+Hi, I’m an **independent engineer** working with AI systems.  
+This blog is where I write about building, testing, and understanding AI —  
+with care, restraint, and long-term thinking.
 
 ---
 
-*Thinking slowly about fast AI.*
+## What I work on
+
+I focus on the practical side of artificial intelligence, especially where real systems meet real constraints.
+
+{: .notice--info}
+- Large Language Models (LLMs) and their real-world behavior  
+- AI system testing, evaluation, and failure modes  
+- Engineering workflows, tooling, and system design  
+- Reliability, clarity, and trade-offs in AI systems  
+
+I care less about demos and more about what still works after the excitement fades.
+
+---
+
+## How I think about AI
+
+I don’t see AI as magic, nor as something to fear by default.  
+To me, AI systems are **engineered artifacts** — shaped by data, incentives, and human decisions.
+
+Good AI work, in my experience, requires:
+- Patience over speed  
+- Measurement over intuition  
+- Simplicity over cleverness  
+
+Most problems become clearer when you slow down enough to observe them.
+
+---
+
+## Why “cheesekitty”
+
+*cheesekitty* is named after my cat, **Cheese**.
+
+Watching a cat sit quietly, observe, and act only when it matters  
+is a surprisingly good metaphor for engineering.
+
+Not everything needs to be optimized.  
+Not every idea needs to ship.  
+Some things just need time.
+
+---
+
+## Working independently
+
+I operate as a **self-directed professional**, taking on AI-related projects, research, and technical consulting.
+
+I prefer work that:
+- Solves real problems  
+- Compounds over time  
+- Respects both people and systems  
+
+If you value careful engineering and honest thinking about AI,  
+this blog is for you.
+
+---
+
+> *Thinking slowly about fast AI.*
