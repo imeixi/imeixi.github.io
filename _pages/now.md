@@ -5,6 +5,8 @@ excerpt: "What I’m focused on at the moment."
 layout: single
 classes: wide
 toc: false
+sidebar:
+  nav: false
 ---
 
 {: .notice--primary}
