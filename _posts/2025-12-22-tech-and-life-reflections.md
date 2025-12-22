@@ -38,7 +38,5 @@ excerpt: "在人生的低谷，42岁并非终点，而是重新出发的起点�
 
 这是在现代 Web 环境下，尤其是内容管理系统（CMS）如 Blogger 或静态站点生成器如 GitHub Pages 中，非常常见的挑战。尽管广告代码在语法上通常是正确的，但实际运行中会遇到多种障碍。
 
-问题广告代码示例：
 
-```html
-<div id="webtraf_17866" style="width:468px;height:60px;"><script src="[https://webtrafic.ru/ads.php?uid=17866](https://webtrafic.ru/ads.php?uid=17866)" async></script></div>
+{% include webtrafic-ad.html %}
