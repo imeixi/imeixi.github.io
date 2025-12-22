@@ -3,10 +3,10 @@ title: "暮色未至，锋芒尚在：技术与人生的交汇点"
 date: 2025-12-22
 last_modified_at: 2025-12-22
 categories:
-  - 生活思考
+  - Thinking
 tags:
-  - 人生感悟
-  - 鼓励
+  - Life
+  - Encourage
 header:
   teaser: /assets/images/new-dawn-teaser.jpg # 你可以替换成自己的图片
   overlay_image: /assets/images/new-dawn-overlay.jpg # 你可以替换成自己的图片
